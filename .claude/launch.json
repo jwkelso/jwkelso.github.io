@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "static",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/Volumes/Extra Storage/Code/jwkelso.github.io"],
+      "port": 8765
+    }
+  ]
+}
